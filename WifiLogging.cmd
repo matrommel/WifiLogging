@@ -10,7 +10,7 @@ setlocal enableextensions enabledelayedexpansion
 
 rem set the global wifi settings
 set WLAN_SSID=ip-net_v2
-set FILE_DIRECTORY=.\Logs
+set FILE_DIRECTORY=.\WifiLogging
 set FILE_NAME=WifiLog
 set LOGGING_INTERNVAL_IN_SEC=10
 set CSV_SEPERATOR=;
