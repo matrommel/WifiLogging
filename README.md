@@ -1,7 +1,7 @@
 # WifiLogging
 Batch script to log the wifi status
 
-##Installation
+## Installation
 1. git clone the repository 
 2. open WifiLogging.cmd and set up the parameters. The default setting is:
 
